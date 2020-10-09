@@ -1,0 +1,46 @@
+{
+  "name": "@kaneoh/smilemoji",
+  "version": "0.0.1",
+  "description": "Easily replace traditional ASCII smileys by their emoji counterpart",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack --progress",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaneoh/smilemoji.git"
+  },
+  "keywords": [
+    "smiley",
+    "emoji",
+    "ascii",
+    "parser",
+    "replace",
+    "smile",
+    "emoticon"
+  ],
+  "author": "Rolo Innovation Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kaneoh/smilemoji/issues"
+  },
+  "homepage": "https://github.com/kaneoh/smilemoji#readme",
+  "devDependencies": {
+    "@kaneoh/babel-preset-frontend": "0.0.1",
+    "@kaneoh/eslint-config-frontend": "0.0.2",
+    "@kaneoh/prettier-config": "0.0.1",
+    "babel-loader": "^8.1.0",
+    "faker": "^5.1.0",
+    "jest": "^26.5.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "prettier": "@kaneoh/prettier-config",
+  "jest": {
+    "roots": [
+      "<rootDir>/src/"
+    ],
+    "collectCoverage": false
+  }
+}

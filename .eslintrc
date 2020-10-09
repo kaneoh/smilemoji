@@ -1,0 +1,3 @@
+{
+  "extends": ["@kaneoh/eslint-config-frontend"]
+}
