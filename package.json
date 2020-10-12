@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaneoh/smilemoji.git"
+    "url": "git+https://github.com/rolo-chat/smilemoji.git"
   },
   "keywords": [
     "smiley",
@@ -23,9 +23,9 @@
   "author": "Rolo Innovation Inc.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/kaneoh/smilemoji/issues"
+    "url": "https://github.com/rolo-chat/smilemoji/issues"
   },
-  "homepage": "https://github.com/kaneoh/smilemoji#readme",
+  "homepage": "https://github.com/rolo-chat/smilemoji#readme",
   "devDependencies": {
     "babel-loader": "^8.1.0",
     "babel-preset-rolo-frontend": "0.0.1",
