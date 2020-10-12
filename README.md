@@ -16,10 +16,10 @@ The package exposes a single function that will replace most ASCII style emotico
 
 ```javascript
 import smilemoji from 'smilemoji';
-// Alternatively you can use a name import
-// import {replace} from '@kaneoh/smilemoji';
+// Alternatively you can use a named import
+// import {replace} from 'smilemoji';
 
 const input = "Hello John :)";
 const result = smilemoji(input);
-// "Hello John 😀"
+// result: "Hello John 😀"
 ```
