@@ -1,3 +1,3 @@
 {
-  "presets": ["@kaneoh/babel-preset-frontend"]
+  "presets": ["babel-preset-rolo-frontend"]
 }
