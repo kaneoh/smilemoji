@@ -1,6 +1,6 @@
 {
   "name": "smilemoji",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Easily replace traditional ASCII smileys by their emoji counterpart",
   "main": "dist/index.js",
   "scripts": {
